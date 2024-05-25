@@ -6,10 +6,12 @@ Console-Based Audio Player via Java
 This Java project is a console-based audio player that allows users to play, stop, and reset three different audio files interactively.
 Users control the playback via simple commands entered into the console.
 
-- Play Audio: Users can play any of the three provided audio files.
-- Stop Audio: Users can stop the playback of all audio files.
-- Reset Audio: Users can reset the playback position of all audio files to the beginning.
-- Quit Program: Users can close the audio clips and exit the program.
+- P1: Play the first audio file ('Gully Dreams - Hanu Dixit.wav').
+- P2: Play the second audio file ('Dance Of The Gypsies - Hanu Dixit.wav').
+- P3: Play the third audio file ('Indecision - Dyalla.wav').
+- S: Stop all playing audio files.
+- R: Reset all audio files to the beginning.
+- Q: Quit the program and close all audio clips.
 
 This project demonstrates fundamental Java programming concepts including file handling, exception handling, user input processing, audio management, control flow structures, and resource management.
 It provides a practical example of how to build an interactive console application for audio playback.
