@@ -11,6 +11,7 @@ Users control the playback via simple commands entered into the console.
 - Reset Audio: Users can reset the playback position of all audio files to the beginning.
 - Quit Program: Users can close the audio clips and exit the program.
 
-File Handling, Exception Handling, User Input, Audio Handling, Control Flow, Resource Management and more have been utilized.
+This project demonstrates fundamental Java programming concepts including file handling, exception handling, user input processing, audio management, control flow structures, and resource management.
+It provides a practical example of how to build an interactive console application for audio playback.
 
 Have Fun 🎵
